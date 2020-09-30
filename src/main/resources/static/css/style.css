@@ -1,0 +1,106 @@
+.size-14 {
+    font-size: 14px;
+}
+
+.size-25 {
+    font-size: 25px;
+}
+
+.card-style {
+    border: none !important;
+}
+
+.card-header-style {
+    background-color: #537286 !important;
+    color: #ffffff !important;
+    border-color: #537286 !important;
+}
+
+.bg-grey {
+    background-color: #CDCDCD;
+}
+
+.pagination-style {
+    border-color: #777777 !important;
+    color: #777777 !important;
+}
+
+.pagination-active {
+    background-color: #777777 !important;
+    color: #ffffff !important;
+    border-color: #777777 !important;
+}
+
+.body-bg {
+    background-color: #919EA1;
+}
+
+.navbar-bg {
+    background-color: #FF7043 !important;
+}
+
+.navbar-color {
+    color: #ffffff !important;
+}
+
+.navbar-user-bg {
+    background-color: #F3F3EC !important;
+}
+
+.navbar-user-color {
+    color: #696969 !important;
+}
+
+.button_primary_new {
+    background-color: #648092 !important;
+    border-color: #648092 !important;
+}
+
+.container-max-width {
+    max-width: 1000px;
+}
+
+.text-decoration-none {
+    text-decoration: none !important;
+}
+
+.width-max {
+    width: 100%;
+}
+
+#login-form {
+    max-width: 450px;
+    margin: 0 auto;
+}
+
+.active-link {
+    color: #ffffff !important;
+}
+
+.active-link2 {
+    color: #e5643c !important;
+}
+
+#under-menu-line {
+    height: 7px;
+    width: 100%;
+    background-color: #F3F3EC;
+}
+
+#flash-message-success {
+    background-color: #4CAF50 !important;
+    color: #ffffff !important;
+}
+
+#flash-message-danger {
+    background-color: #e53935 !important;
+    color: #ffffff !important;
+}
+
+.pagination-size-active {
+    color: #e5643c !important;
+}
+
+.pagination-size {
+    color: #537286 !important;
+}
